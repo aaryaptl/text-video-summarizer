@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+youtube-transcript-api
+PyPDF2
+python-docx
+pdfplumber
